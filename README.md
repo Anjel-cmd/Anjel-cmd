@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abanti </h1>
 <h3 align="center">A passionate Full Stack Developer aspirant from India</h3>
 
-<img align="right" alt="Coding" width="380" style="margin-right: 40px;" src="read2.png">
+<img align="right" alt="Coding" width="380" style="margin-right: 70px;" src="read2.png">
 
 <br>
 
@@ -33,6 +33,6 @@
 
 <h3 align="left">☕ Buy Me a Coffee</h3>
 <p>
-If you like my work and want to support me, you can buy me a coffee!  
+If you like my work and want to support me, you can buy me a coffee!😄
 <br><br>
 </p>
