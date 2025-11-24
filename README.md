@@ -5,8 +5,8 @@
 
 <br>
 
-- 🔭 I’m currently working on **LMS**
-- 🌱 I’m currently learning **React, Node.js**
+- 🔭 I’m currently working on becoming a **Full-stack wizard 🪄**
+- 🌱 I’m currently learning **React, Node.js, and Express.js**
 - 📫 How to reach me: **abantighosh01@gmail.com**
 - 😄 Fun Fact: **Ctrl + Z is my superpower**
 
