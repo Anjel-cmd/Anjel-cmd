@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abanti Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/5d/a1/1b/5da11b9cc66ff661383684481c43eef4.jpg">
+<img align="right" alt="Coding" width="400" src="">
 
 <br>
 
@@ -35,7 +35,4 @@
 <p>
 If you like my work and want to support me, you can buy me a coffee!  
 <br><br>
-<a href="https://www.buymeacoffee.com/YOUR_LINK_HERE" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
-</a>
 </p>
