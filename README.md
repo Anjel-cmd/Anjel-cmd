@@ -38,8 +38,3 @@
 
 <br>
 
-<h3 align="left">☕ Buy Me a Coffee</h3>
-<p>
-If you like my work and want to support me, you can buy me a coffee!😄
-<br><br>
-</p>
