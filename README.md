@@ -52,7 +52,7 @@
   <tr>
     <td width="50%">
       <img 
-        width="80%" 
+        width="100%" 
         src="https://github-readme-stats.vercel.app/api?username=Anjel-cmd&show_icons=true&theme=tokyonight" 
         alt="GitHub Stats" 
       />
