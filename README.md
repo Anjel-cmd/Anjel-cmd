@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abanti </h1>
 <h3 align="center">A passionate Full Stack Developer aspirant from India</h3>
 
-<img align="right" alt="Coding" width="380" src="read2.png">
+<img align="right" alt="Coding" width="380" style="margin-right: 20px;" src="read2.png">
 
 <br>
 
