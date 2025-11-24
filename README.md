@@ -50,9 +50,9 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="50%">
       <img 
-        width="100%" 
+        width="80%" 
         src="https://github-readme-stats.vercel.app/api?username=Anjel-cmd&show_icons=true&theme=tokyonight" 
         alt="GitHub Stats" 
       />
