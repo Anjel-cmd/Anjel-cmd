@@ -43,6 +43,8 @@
   <img width="340" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode"/> 
 </p>
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjel-cmd&layout=compact&theme=tokyonight)
+
+### 📊 GitHub Stats
+![Abanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anjel-cmd&show_icons=true&theme=tokyonight)
 
 
