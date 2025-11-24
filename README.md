@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://anjel-cmd.github.io/PortfAbanti/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img  src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
@@ -40,8 +40,8 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb"/> 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img width="200" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb"/> 
+  <img width="200" src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 
