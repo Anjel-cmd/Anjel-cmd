@@ -50,12 +50,21 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Anjel-cmd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <td width="50%">
+      <img 
+        width="100%" 
+        src="https://github-readme-stats.vercel.app/api?username=Anjel-cmd&show_icons=true&theme=tokyonight" 
+        alt="GitHub Stats" 
+      />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjel-cmd&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <td width="50%">
+      <img 
+        width="100%" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjel-cmd&layout=compact&theme=tokyonight" 
+        alt="Top Languages" 
+      />
     </td>
   </tr>
 </table>
+
 
