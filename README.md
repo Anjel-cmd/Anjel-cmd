@@ -40,8 +40,7 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img width="200" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb"/> 
-  <img width="200" src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img width="300" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode"/> 
 </p>
 
 
