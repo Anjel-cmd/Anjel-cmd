@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://anjel-cmd.github.io/PortfAbanti/" target="_blank">
-  <img  src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
@@ -44,7 +44,13 @@
 </p>
 <br>
 
-### 📊 GitHub Stats
-![Abanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anjel-cmd&show_icons=true&theme=tokyonight)
+---
 
+### 📊 GitHub Stats  
+![Anjel-cmd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anjel-cmd&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔤 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjel-cmd&layout=compact&theme=tokyonight)
 
