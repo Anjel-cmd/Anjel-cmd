@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **LMS**
 - 🌱 I’m currently learning **React, Node.js**
 - 📫 How to reach me: **abantighosh01@gmail.com**
-- 😄 Fun Fact: **I am really boring**
+- 😄 Fun Fact: **Ctrl + Z is my superpower**
 
 <br>
 
