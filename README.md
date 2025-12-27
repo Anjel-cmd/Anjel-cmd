@@ -7,9 +7,6 @@
     />
   </a>
 </h3>
-
-
-
 <h3 align="center">A passionate Full Stack Developer aspirant from India</h3>
 
 <img 
