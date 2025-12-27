@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abanti </h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hi+I'm+Abanti+Ghosh+%3C%2F%3E" alt="Typing SVG" /></a>
+</h3>
 <h3 align="center">A passionate Full Stack Developer aspirant from India</h3>
 
 <img 
