@@ -48,24 +48,10 @@
 
 ### 📊 GitHub Overview
 
-<table>
-  <tr>
-    <td width="50%">
-      <img 
-        width="100%" 
-        src="https://github-readme-stats.vercel.app/api?username=Anjel-cmd&show_icons=true&theme=tokyonight" 
-        alt="GitHub Stats" 
-      />
-    </td>
-    <td width="50%">
-      <img 
-        width="100%" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjel-cmd&layout=compact&theme=tokyonight" 
-        alt="Top Languages" 
-      />
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anjel-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Anjel-cmd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjel-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Anjel-cmd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Anjel-cmd" /></a><a href="https://ko-fi.com/Anjel-cmd"></a></p><br><br>
