@@ -1,6 +1,13 @@
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hi+I'm+Abanti+Ghosh+%3C%2F%3E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=460&color=FFD700&lines=Hi+I'm+Abanti+Ghosh+%3C%2F%3E"
+      alt="Typing SVG"
+      style="filter: drop-shadow(0 0 6px #FFD700);"
+    />
+  </a>
 </h3>
+
 <h3 align="center">A passionate Full Stack Developer aspirant from India</h3>
 
 <img 
