@@ -1,12 +1,22 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&center=true&vCenter=true&multiline=true&width=460&color=FFD700&lines=Hi+I'm+Abanti+Ghosh"
+      src="https://readme-typing-svg.demolab.com?
+      font=Dancing+Script
+      &size=40
+      &pause=1000
+      &center=true
+      &vCenter=true
+      &width=700
+      &height=90
+      &color=FFD700
+      &lines=Hi+I'm+Abanti+Ghosh"
       alt="Typing SVG"
-      style="filter: drop-shadow(0 0 6px #FFD700);"
+      style="filter: drop-shadow(0 0 8px #FFD700) drop-shadow(0 0 14px #FFD700);"
     />
   </a>
 </h3>
+
 
 <h3 align="center">A passionate Full Stack Developer aspirant from India</h3>
 
