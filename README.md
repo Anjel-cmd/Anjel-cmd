@@ -1,7 +1,7 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Caveat&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=460&color=FFD700&lines=Hi+I'm+Abanti+Ghosh"
+      src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=460&color=FFD700&lines=Hi+I'm+Abanti+Ghosh"
       alt="Typing SVG"
       style="filter: drop-shadow(0 0 6px #FFD700);"
     />
