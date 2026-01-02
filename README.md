@@ -6,7 +6,7 @@
   />
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="28"
+    width="40"
     alt="wave"
     style="vertical-align: middle; margin-left: 6px;"
   />
