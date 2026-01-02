@@ -1,21 +1,16 @@
 <div align="center" style="position: relative; display: inline-block;">
+  <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&center=true&vCenter=true&width=520&height=70&color=FFD700&lines=Hi,+This+is+Abanti..."
+    src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&center=true&vCenter=true&width=460&height=70&color=FFD700&lines=Hi,+This+is+Abanti..."
     alt="Typing SVG"
-    style="filter: drop-shadow(0 0 8px #FFD700);"
   />
-
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="35"
     alt="wave"
-    style="
-      position: absolute;
-      right: -40px;
-      top: 50%;
-      transform: translateY(-50%);
-    "
   />
+</h1>
+
 </div>
 
 
