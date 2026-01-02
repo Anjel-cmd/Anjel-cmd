@@ -1,13 +1,19 @@
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&center=true&vCenter=true&width=700&height=70&color=FFD700&lines=Hi,+This+is+Abanti..."
+      src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&center=true&vCenter=true&width=520&height=70&color=FFD700&lines=Hi,+This+is+Abanti..."
       alt="Typing SVG"
       style="filter: drop-shadow(0 0 8px #FFD700);"
     />
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </a>
+
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="35"
+    alt="wave"
+  />
 </div>
+
 <h3 align="center">A passionate Full Stack Developer aspirant from India</h3>
 
 <img 
