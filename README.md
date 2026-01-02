@@ -4,12 +4,6 @@
     src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&center=true&vCenter=true&width=460&height=70&color=FFD700&lines=Hi,+This+is+Abanti..."
     alt="Typing SVG"
   />
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="80"
-    alt="wave"
-    style="vertical-align: middle; margin-left: 1px;"
-  />
 </h1>
 </div>
 
