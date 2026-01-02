@@ -5,6 +5,7 @@
       alt="Typing SVG"
       style="filter: drop-shadow(0 0 8px #FFD700);"
     />
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </a>
 </div>
 <h3 align="center">A passionate Full Stack Developer aspirant from India</h3>
