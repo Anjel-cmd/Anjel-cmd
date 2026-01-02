@@ -1,16 +1,15 @@
 <div align="center" style="position: relative; display: inline-block;">
-  <h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&center=true&vCenter=true&width=460&height=70&color=FFD700&lines=Hi,+This+is+Abanti..."
-    alt="Typing SVG"
-  />
+  <h1 align="center" style="margin-bottom: 0;">
+  <span style="font-family: 'Dancing Script', cursive; color: #FFD700; font-size: 40px;">
+    Hi, This is Abanti...
+  </span>
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="35"
+    width="28"
     alt="wave"
+    style="vertical-align: middle; margin-left: 6px;"
   />
 </h1>
-
 </div>
 
 
