@@ -1,11 +1,10 @@
-<div align="center" style="position: relative; display: inline-block;">
-  <h1 align="center" style="margin-bottom: 0;">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=44&pause=1000&center=true&vCenter=true&width=520&height=80&color=C084FC&background=0D111700&lines=✦+Hi,+This+is+Abanti+✦&repeat=true"
-    alt="Typing SVG"
-    style="filter: drop-shadow(0 0 10px #c084fc) drop-shadow(0 0 25px #a855f7);"
-  />
-</h1>
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=46&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=90&lines=✦+Hi+This+is+Abanti+✦;Frontend+Developer+💜;Creative+Coder+⚡"
+alt="Typing SVG"
+/>
+
 </div>
 
 
