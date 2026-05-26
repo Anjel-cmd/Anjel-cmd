@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+There+I'm+Abanti;Frontend+Developer;Creative+Coder;Full+Stack+Aspirant" />
+<img 
+src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=100&lines=✦+Hi+This+is+Abanti+✦" 
+/>
 
 </div>
 
