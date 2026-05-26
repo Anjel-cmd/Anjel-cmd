@@ -1,8 +1,6 @@
 <div align="center">
 
-<img 
-src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=100&lines=✦+Hi+This+is+Abanti+✦" 
-/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=100&lines=Hi+This+is+Abanti" />
 
 </div>
 
