@@ -33,7 +33,7 @@
 <a href="https://github.com/Anjel-cmd" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://anjel-cmd.github.io/PortfAbanti/" target="_blank">
+<a href="https://abanti.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
