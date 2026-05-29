@@ -68,7 +68,7 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Anjel-cmd&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+[![](https://github-contributor-stats.vercel.app/api?username=Anjel-cmd&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)](https://github.com/Anjel-cmd)
 
 </div>
 
