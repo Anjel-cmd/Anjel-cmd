@@ -1,14 +1,22 @@
 <div align="center">
 
 <img src="banner2.png" alt="Banner" width="100%" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=100&lines=Hi+,+This+is+Abanti+🪄" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=100&lines=Hi+,+This+is+Abanti+Ghosh+🪄" />
 
 </div>
 
-<h3 align="center">
-  Passion in <span style="color:#A855F7">Design</span> · Passion in <span style="color:#A855F7">Code</span>
-</h3>
+<div align="center">
 
+<svg width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="35" font-family="Georgia, serif" font-size="22" text-anchor="middle" fill="#9ca3af">
+    Passion in 
+    <tspan fill="#A855F7">Design</tspan>
+     · Passion in 
+    <tspan fill="#A855F7">Code</tspan>
+  </text>
+</svg>
+
+</div>
 <br>
 
 <img 
